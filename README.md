@@ -1,1 +1,1 @@
-# hacker_rank_sql
+# hacker_rank_sql50
